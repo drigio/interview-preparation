@@ -11,6 +11,10 @@ public class LinkedList<T> {
         this.head = new ListNode();
     }
 
+    public ListNode getHead() {
+        return this.head;
+    }
+
     public void insertAtEnd(T n) {
         ListNode node = head;
         ListNode temp = new ListNode(n);
@@ -128,7 +132,7 @@ public class LinkedList<T> {
      * insertbeg, insertkey, deletekey, deletefirst, deletelast, merge
      */
 
-    class ListNode {
+    public class ListNode {
         T data;
         ListNode next;
 
