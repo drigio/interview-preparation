@@ -6,6 +6,12 @@
 2. Doubly Linked List
 3. Circular Linked List
 
+## Applications
+
+- Polynomial Expressions
+- Sparse Matrix
+- Memory Management Techniques
+
 ## Major Problems
 
 1. Merge Sorted Linked Lists. [Link]("./MergeSortedLinkedLists.java")
