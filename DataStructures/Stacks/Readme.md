@@ -6,6 +6,10 @@ Can be implemented using LinkedList or Arrays.
 ## Major Problems
 
 1. Infix to Postfix Expression.
+2. Min Stack.
+3. Stock Span Problem.
+4. Valid Parantheses.
+5. Queue using Stack.
 
 ## Java Collection for Stack
 
